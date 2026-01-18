@@ -10,7 +10,7 @@ This document outlines the steps to compile and simulate the enhanced MIPS proce
 * Source File: System.sv (Contains Top, MIPS, DataPath, ALU, Memories, and Testbench).
 * Program File: prog_vmac_1000.txt (Hex code for the benchmark).
 
-=============================================================
+=============================================
 2.     SIMULATION INSTRUCTIONS
 =============================================================
 
