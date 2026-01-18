@@ -53,7 +53,7 @@ Step 4: Running the Simulation
      restart -f
      run 15000 ns
 
-=============================================================
+===============================================
 3. VERIFYING RESULTS
 =============================================================
 * Simulation Time: The enhanced processor should complete the task in approximately 10,070 ns.
