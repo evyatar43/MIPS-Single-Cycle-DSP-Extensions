@@ -1,6 +1,7 @@
-# README: How to Run the MIPS VMAC Simulation
+<img width="1203" height="714" alt="image" src="https://github.com/user-attachments/assets/8c2a8622-6591-4a78-b978-971dd61666b2" /># README: How to Run the MIPS VMAC Simulation
 
 This document outlines the steps to compile and simulate the enhanced MIPS processor (Hardware Loop & VMAC) using ModelSim/Questa.
+<img width="1203" height="714" alt="image" src="https://github.com/user-attachments/assets/67f8bad4-ec01-43f4-9a09-ad873578fc5c" />
 
 =============================================================
 1. PREREQUISITES
