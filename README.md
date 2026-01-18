@@ -11,7 +11,7 @@ This document outlines the steps to compile and simulate the enhanced MIPS proce
 * Program File: prog_vmac_1000.txt (Hex code for the benchmark).
 
 =============================================================
-2. SIMULATION INSTRUCTIONS
+2.     SIMULATION INSTRUCTIONS
 =============================================================
 
 Step 1: Project Setup
